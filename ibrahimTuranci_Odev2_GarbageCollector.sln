@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ibrahimTuranci_Odev2_GarbageCollector", "ibrahimTuranci_Odev2_GarbageCollector\ibrahimTuranci_Odev2_GarbageCollector.csproj", "{29C549D2-D23B-40EC-96D3-617474B0C512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{751E64B0-9F06-4D9E-989D-BA5DBC27F837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C549D2-D23B-40EC-96D3-617474B0C512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C549D2-D23B-40EC-96D3-617474B0C512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C549D2-D23B-40EC-96D3-617474B0C512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C549D2-D23B-40EC-96D3-617474B0C512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751E64B0-9F06-4D9E-989D-BA5DBC27F837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751E64B0-9F06-4D9E-989D-BA5DBC27F837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751E64B0-9F06-4D9E-989D-BA5DBC27F837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751E64B0-9F06-4D9E-989D-BA5DBC27F837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D95F785-C039-4E5B-9B01-002FA6C4A7B7}
+	EndGlobalSection
+EndGlobal
